@@ -2,11 +2,3 @@
 # http://code.google.com/web/controlcrawlindex/
 
 User-agent: *
-
-aanpassing 1 local
-
-aanpassing 2 local
-
-aanpassing 3 local
-
-aanpassing 3 remote
